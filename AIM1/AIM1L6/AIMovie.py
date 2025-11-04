@@ -9,6 +9,8 @@ import sys
 # Initialize colorama
 init(autoreset=True)
 
+link = C:/Users\91917\Downloads\AI_Movie_recommendation_system_boilerplate_code_AIEPCM1L6-1c2b (2)
+
 # Load and preprocess the dataset
 def load_data(file_path='C:/Users/91917/Downloads/AI_Movie_recommendation_system_boilerplate_code_AIEPCM1L6-1c2b (1)/imdb_top_1000.csv'):
     try:
